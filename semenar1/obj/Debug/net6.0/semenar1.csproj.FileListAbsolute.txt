@@ -1,0 +1,15 @@
+C:\Users\apx\Desktop\SemenaryC#\semenar1\bin\Debug\net6.0\semenar1.exe
+C:\Users\apx\Desktop\SemenaryC#\semenar1\bin\Debug\net6.0\semenar1.deps.json
+C:\Users\apx\Desktop\SemenaryC#\semenar1\bin\Debug\net6.0\semenar1.runtimeconfig.json
+C:\Users\apx\Desktop\SemenaryC#\semenar1\bin\Debug\net6.0\semenar1.dll
+C:\Users\apx\Desktop\SemenaryC#\semenar1\bin\Debug\net6.0\semenar1.pdb
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.csproj.AssemblyReference.cache
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.AssemblyInfoInputs.cache
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.AssemblyInfo.cs
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.csproj.CoreCompileInputs.cache
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.dll
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\refint\semenar1.dll
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.pdb
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\semenar1.genruntimeconfig.cache
+C:\Users\apx\Desktop\SemenaryC#\semenar1\obj\Debug\net6.0\ref\semenar1.dll
